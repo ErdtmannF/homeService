@@ -61,7 +61,7 @@
 				<artifactId>wildfly-maven-plugin</artifactId>
 				<version>2.1.0.Beta1</version>
 				<configuration>
-					<hostname>192.168.178.6</hostname>
+					<hostname>192.168.178.7</hostname>
 					<port>9990</port>
 					<username>wildfly</username>
 					<password>s36.182c1h4v</password>
