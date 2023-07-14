@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.erdtmann.soft</groupId>
-	<artifactId>pvService</artifactId>
+	<artifactId>homeService</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
-	<name>PV Webservice</name>
+	<name>Home Webservice</name>
 
 	<properties>
 		<sonar.organization>erdtmannf</sonar.organization>
@@ -123,7 +123,7 @@
 		<dependency>
 			<groupId>org.eclipse.persistence</groupId>
 			<artifactId>eclipselink</artifactId>
-			<version>2.7.6</version>
+			<version>3.0.3</version>
 		</dependency>
 		<dependency>
 			<groupId>org.mariadb.jdbc</groupId>
